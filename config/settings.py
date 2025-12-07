@@ -20,7 +20,7 @@ SECRET_KEY = 'django-insecure-%^k@q2r@5z%3m-)mz(v_f9mw2*q1r$vvdyp_j*vm-y5@*8kvc0
 DEBUG = True
 
 # Removed the port number :8000, keep only the IP
-ALLOWED_HOSTS = ['127.0.0.1', '192.168.30.142', 'localhost']
+ALLOWED_HOSTS = ['127.0.0.1', '192.168.30.142', 'localhost','https://backend-fullstack-lostandfound.onrender.com']
 
 
 # Application definition
